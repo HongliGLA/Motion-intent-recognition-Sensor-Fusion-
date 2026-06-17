@@ -1,5 +1,6 @@
 # Motion-intent-recognition-Sensor-Fusion
 References for you: https://drive.google.com/drive/folders/1NnGhPkrpJf4BtNaIEeORqZLvkDQFgPEB?usp=drive_link
+
 https://github.com/Levi-Ackman/TeCh
 
 ## Project Guideline: EMG Sensor Fusion for Motion Intent Recognition
